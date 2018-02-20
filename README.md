@@ -1,3 +1,13 @@
+## AdaptCMS
+
+[Official Site](https://www.adaptcms.com)
+
+## Fork of OFFLINE-GmbH/persistent-settings
+
+See: [Official Repo](https://packagist.org/packages/OFFLINE-GmbH/persistent-settings)
+
+This is a fixed version which supports Laravel 5.6.x
+
 # Persistent Settings Manager for Laravel 5
 [![Build Status](https://travis-ci.org/OFFLINE-GmbH/persistent-settings.svg)](https://travis-ci.org/OFFLINE-GmbH/persistent-settings)
 

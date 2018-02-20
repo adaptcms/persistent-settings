@@ -1,4 +1,6 @@
-<?php namespace Offline\Settings;
+<?php 
+
+namespace Offline\Settings;
 
 use Illuminate\Database\DatabaseManager;
 
